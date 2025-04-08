@@ -6,3 +6,6 @@ board:
     - name: nrf9161
       variants:
         - name: 'ns'
+    - name: nrf9151
+      variants:
+        - name: 'ns'
